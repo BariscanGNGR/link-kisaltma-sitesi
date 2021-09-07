@@ -1,9 +1,11 @@
 Kurulum
+
     SQL bilgilerini /php/sqlBaglanti.php dosyasında kaydetmemiz lazım.
     Mail bilgilerini /php/mail.php dosyasında kaydetmemiz lazım
     Sunucuda phpmyadmin'den içe aktar diyip url_kisaltici.sql seçmeliyiz.
 
 Link
+
     http://link.bariscangungor.com.tr/
     site şuan aktif kullanıma hazır.
 
@@ -11,6 +13,7 @@ Link
     örnek olarak:  http://link.bariscangungor.com.tr/google
 
 Site Haritası
+
     Anasayfada hedef url ve kısaltmak istediğimiz ismi yazıyoruz ve yeni bir kayıt oluşturuyor.
 
     Ayarlardan eposta onayı yapmak için bizi yönlendirir. Hesabı sil tuşuda bizi yönlendirir.
