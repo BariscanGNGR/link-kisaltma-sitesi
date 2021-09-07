@@ -1,0 +1,1 @@
+# link-kisaltma-sitesi
